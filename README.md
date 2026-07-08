@@ -1,5 +1,4 @@
-# Spotify-Clone
-A responsive Spotify-inspired web interface built using HTML5 and CSS3, showcasing modern UI design, responsive layouts, and clean front-end development practices.
+
 # Spotify Clone
 
 A responsive front-end Spotify Clone built using **HTML5** and **CSS3**. This project recreates the modern Spotify web player interface with a strong focus on responsive design, clean layouts, reusable components, and user experience. It demonstrates core front-end development skills by implementing a visually accurate user interface using only HTML and CSS.
