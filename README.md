@@ -9,7 +9,7 @@ A responsive front-end Spotify Clone built using **HTML5** and **CSS3**. This pr
 
 ## Preview
 
-> ![Spotify Clone Preview](assets/preview.png
+> ![Spotify Clone Preview](assets/preview.png)
 
 ## Features
 
