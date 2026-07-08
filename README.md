@@ -68,7 +68,7 @@ Through this project, I improved my understanding of:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spotify-clone.git
+git clone https://github.com/nandini_gouri/spotify-clone.git
 ```
 
 ### Navigate to the project
