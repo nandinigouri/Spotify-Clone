@@ -5,7 +5,7 @@ A responsive front-end Spotify Clone built using **HTML5** and **CSS3**. This pr
 
 ## Live Demo
 
-**Live Website:** *Add your GitHub Pages link here*
+**Live Website:** https://nandinigouri.github.io/Spotify-Clone/
 
 ## Preview
 
